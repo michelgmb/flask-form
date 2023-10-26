@@ -1,0 +1,1 @@
+# Flash application for simple python app
